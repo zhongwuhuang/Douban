@@ -1,0 +1,19 @@
+.flexboxrow {
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+}
+.flexboxcol {
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.flexwrap {
+  flex-wrap: wrap;
+}
+
+.flexboxitems {
+  box-sizing: border-box;
+}
